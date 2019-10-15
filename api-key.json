@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clever-acolyte-256017",
+  "private_key_id": "72036447f6a5b10367121bf52cd71eb8eacb0f74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwxdVtm+rNMueI\nsyyBQg00dpQ+qmW3XAPT3XP5bmSIFbp2HPeEOy8aNNVPaHh/jw3aHMbTP86se3Fa\nneYQ2yM9XsfXSUr6SinBfS8FTS51sGtBCtlRRctKE0Qa2zarhapUxQQtlsMnVr/q\nR0c7egGyeF1L85H2aBJHsq8WSk/KRjOYyK5ZiPJEUfD5efYhaR9SabLT21YPg2bs\nk6+AmA/UhDZBFqr+jf6NO5m51LVPckbKr/dQ/RzeIquBmx8S6tvNs292AVa0jLnf\na/kZWkUlKEwvLIR9KG9ehl7CoPZfE+tS2/mCYi87eAREFVtMzY6dKd++VJeyaOfl\n9zogcaXfAgMBAAECggEALVcY1ovSzj37wAbA6AhyjZ3KiUY4X67ktm9LI1OKypLU\nKB5m6A4sFyss+TihC4q8MVEHOEDZ+EiTOvxb+b/TSpboaBI+/nKOQjgjGteAjqQo\n5l5rfhqKOV42rjLC03ytwx9jYnQUax8ni2Yr4Zf6HnYb6/K14f8wjR5KJUv7KjSo\nCxq1/2gQ+Eu2x9B7lXtTNwv2VgsvSv5OvyzECxiboAYpnch5H1y9sYuYktjlzzOy\nASe9/XiD2N35SXVV5yeRFAGirZ9RYFc26TOLmjBI8PFBsgMRIQdxbkgFIEIs9u/B\nskFhBW03XcKfHcjjSBUgMA7sNynfzi3i197KOhV/GQKBgQD2yijznnJ5Qbq1AsV2\ngBjNKFfifL1k40+kfWBXEGY5EgMmQyhzsrcFwrTVVSkAD99pU4TNRwBAdBtWcxSB\nnrYTxICkpSS7zo6JTBtAsfbcldGy+uYLjebmfhqeMQ+PFWqMT1d2oUiX1x0sb/1L\nJaRovtM+22ju9arBRICoY3+btwKBgQC3Xrqja5i1ohgNOVZxXFNZP3y2G4A2erVp\nfKH98Gy0gbS3/y2QgWVzTtX1avYAra7K9sXPTl433nfn/9uktAxzPqKqTAe+G0eN\nz8brWbye6wgv9uGZB34cTV+V1JiQx1zFvnk+rVDsWZxS+bvNR+AE+kZzWVQSrDk2\nX8TNOfIXGQKBgQDrmSExOfFkyxgYF/Y046NJsBr+cEFKoCr3CG5Bj7lXAFgbXf+v\nPEy3ZiLGio8irQSGg6IDaqXV4kH67NAF0mNWScDZ7YI8/LtcXVijEYJvIWPY7udQ\n3n4xSu/UV1fYLATUwCXqbZxkwIrsUllINT5YdNwsZMAvaD5EVUZR+vLmzwKBgDsn\njiImFc+SiRvLAX30gNbryjmdSZFJqLhtAn0/UHIy3a/13Ccf9zBpoFBZvx6c6SSE\n0297Ip33YMsxGRRbGSEcdbFmcaD8f+rZupw2CMljnPKMPF73sdFDjLBzMvyRs/X+\n6nIzy0VT60BBXDpvE2/HpW6UxLB5asOFxaFHLjgRAoGAFNiwIH7aMIh+0Me0kXYF\njLqHEEkkQuhrAfHs8M2+GYTEtj7BQxoNX+f5qPn5IQvqr9uJAJpoMmkIymMR4DpR\nTYOeUE/L/RmwR2mRb7oK+CxTS8viYLl0WovbZZwIwk6Cfd5X0/PYkwbQBSxfDV56\n17GAwviSau90ma+3LEiPqjQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "padcast2translate@clever-acolyte-256017.iam.gserviceaccount.com",
+  "client_id": "112414393481950208488",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/padcast2translate%40clever-acolyte-256017.iam.gserviceaccount.com"
+}
